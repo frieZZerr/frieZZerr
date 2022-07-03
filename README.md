@@ -1,3 +1,5 @@
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=friezzerr&show_icons=true&theme=dark&locale=en" alt="friezzerr" /></p>
+<h3 align="center">"Dream big, not huge..."</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=friezzerr&show_icons=true&theme=dark&locale=en&layout=compact" alt="friezzerr" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=friezzerr&show_icons=true&theme=tokyonight&locale=en" alt="friezzerr" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=friezzerr&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="friezzerr" /></p>
