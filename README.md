@@ -1,6 +1,3 @@
----
-
-### "Dream big, not huge..."
 
 ---
 
